@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <ion-phaser v-bind:game.prop="game" />
-  </div>
+  <ion-phaser v-bind:game.prop="game" />
 </template>
 
 <script setup lang="ts">
