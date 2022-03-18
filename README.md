@@ -1,4 +1,4 @@
-# match
+# Vue3 Phaser Template
 
 ## Project setup
 ```
