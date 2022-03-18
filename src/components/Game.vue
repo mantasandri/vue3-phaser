@@ -7,8 +7,6 @@
 <script setup lang="ts">
 import Phaser from 'phaser'
 
-let init = false
-
 const game = {
   type: Phaser.AUTO,
   width: '100%',
@@ -33,9 +31,5 @@ const game = {
       // this.helloWorld.angle += 1
     },
   },
-}
-
-const initGame = () => {
-  init = !init
 }
 </script>
